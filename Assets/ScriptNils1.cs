@@ -9,6 +9,7 @@ public class ScriptNils1 : MonoBehaviour
     {
         //Script Nils 1
         //Kommentar von Bernd
+        // Noch ein Kommentar, von Nils
     }
 
     // Update is called once per frame
